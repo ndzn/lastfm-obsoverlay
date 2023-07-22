@@ -1,7 +1,7 @@
 # Spotify/LastFM OBS Overlay
 
 
-> ### Warning: This is a very experimental solution. And breaks time to time.
+> ### Warning: This is a very experimental solution. And may break time to time.
 > A solution that allows you to show your current song on [LastFM](https://www.last.fm/)/[Spotify](https://www.spotify.com/) as an overlay in [OBS](https://obsproject.com/) with no login, local software or api keys needed, just set a username.
 
 
